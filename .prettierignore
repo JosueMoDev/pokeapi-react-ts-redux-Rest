@@ -1,0 +1,11 @@
+.git
+node_modules
+yarn.lock
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
